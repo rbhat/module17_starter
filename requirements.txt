@@ -1,0 +1,15 @@
+# Data Science and Machine Learning packages
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# Jupyter and notebook support
+jupyter
+notebook
+ipykernel
+
+# Additional utilities
+scipy
+joblib

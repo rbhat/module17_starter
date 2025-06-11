@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
+    "jupyter.interactiveWindow.creationMode": "single",
+    "python.terminal.activateEnvironment": true,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "jupyter.kernels.excludePythonEnvironments": [
+        "${workspaceFolder}/.venv/Scripts/python.exe"
+    ]
+}
