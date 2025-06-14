@@ -2,3 +2,6 @@ CLAUDE.md
 .CLAUDE
 .venv
 task_list.md
+__pycache__/models.cpython-313.pyc
+__pycache__/visualization.cpython-313.pyc
+__pycache__/visualization.cpython-312.pyc
